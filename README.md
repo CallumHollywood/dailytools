@@ -1,2 +1,2 @@
 # dailytools
-Functions for tHis and that
+Functions for this and that
